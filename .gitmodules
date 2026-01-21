@@ -1,0 +1,3 @@
+[submodule "02-lu-qr-iterative-solvers/Eigen"]
+	path = 02-lu-qr-iterative-solvers/Eigen
+	url = https://gitlab.com/libeigen/eigen.git
